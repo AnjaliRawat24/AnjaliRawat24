@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnjaliRawat24
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently learning SpringBoot.
 - 💞️ I’m looking to collaborate on anything reacted to ReactJS
 - 📫 How to reach me https://www.linkedin.com/in/anjali-rawat24/
 
